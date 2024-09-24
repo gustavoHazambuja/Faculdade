@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Moto
+comment1.params=ano\ cilindrada
+comment1.target=Moto(int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

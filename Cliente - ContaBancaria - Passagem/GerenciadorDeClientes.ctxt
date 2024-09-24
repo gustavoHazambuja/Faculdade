@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GerenciadorDeClientes
+comment1.params=
+comment1.target=GerenciadorDeClientes()
+comment2.params=cf
+comment2.target=void\ adicionarClienteFisico(clienteFisico)
+comment3.params=cj
+comment3.target=void\ adicionarClienteJuridico(clienteJuridico)
+comment4.params=cl
+comment4.target=void\ adicionarCliente(Cliente)
+comment5.params=
+comment5.target=void\ mostrarClientes()
+numComments=6

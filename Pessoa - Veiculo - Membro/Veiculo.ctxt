@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=ano
+comment1.target=Veiculo(int)
+comment2.params=
+comment2.target=java.lang.String\ gerarProximaPlaca()
+comment3.params=
+comment3.target=java.lang.String\ getPlaca()
+comment4.params=
+comment4.target=int\ getanoFabricacao()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

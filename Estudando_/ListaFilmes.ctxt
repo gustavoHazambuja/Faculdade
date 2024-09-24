@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ListaFilmes
+comment1.params=
+comment1.target=ListaFilmes()
+comment2.params=filme
+comment2.target=void\ cadastrarFilme(Filme)
+comment3.params=nome
+comment3.target=Filme\ buscarFilmePorNome(java.lang.String)
+comment4.params=diretor
+comment4.target=Filme\ buscarFilmePorDiretor(java.lang.String)
+comment5.params=genero
+comment5.target=Filme\ buscarFilmePorGenero(java.lang.String)
+comment6.params=atorPrincipal
+comment6.target=Filme\ buscarFilmePorAtorPrincipal(java.lang.String)
+comment7.params=anoLancamento
+comment7.target=Filme\ buscarFilmePorAnoLancamento(int)
+comment8.params=
+comment8.target=void\ listarFilmes()
+numComments=9

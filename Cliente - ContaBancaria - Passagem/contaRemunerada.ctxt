@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=contaRemunerada
+comment1.params=num\ nome
+comment1.target=contaRemunerada(int,\ java.lang.String)
+comment2.params=valor
+comment2.target=void\ definePercentRemuneracao(double)
+comment3.params=valor
+comment3.target=boolean\ depositar(double)
+numComments=4

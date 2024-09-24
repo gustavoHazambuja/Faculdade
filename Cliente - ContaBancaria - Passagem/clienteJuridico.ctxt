@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=clienteJuridico
+comment1.params=nome\ mensal
+comment1.target=clienteJuridico(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getMensalidade()
+comment3.params=novaMensalidade
+comment3.target=void\ setMensalidade(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

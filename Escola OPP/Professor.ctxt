@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=
+comment1.target=void\ aplicarAvaliacao()
+comment10.params=salario
+comment10.target=void\ setSalario(double)
+comment2.params=
+comment2.target=Professor()
+comment3.params=disciplina
+comment3.target=void\ adicionarDisciplina(Disciplina)
+comment4.params=disciplina
+comment4.target=void\ excluirDisciplina(Disciplina)
+comment5.params=
+comment5.target=int\ quantidadeDisciplina()
+comment6.params=posicao
+comment6.target=Disciplina\ getDisciplina(int)
+comment7.params=
+comment7.target=java.lang.String\ getFormacaoAcademica()
+comment8.params=formacaoAcademica
+comment8.target=void\ setFormacaoAcademica(java.lang.String)
+comment9.params=
+comment9.target=double\ getSalario()
+numComments=11

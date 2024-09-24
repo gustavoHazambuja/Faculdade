@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Diagonal_Principal_Secundaria
+comment1.params=mat
+comment1.target=void\ lerMatriz(int[][])
+comment2.params=mat
+comment2.target=int\ somaPrincipal(int[][])
+comment3.params=mat
+comment3.target=int\ somaSecundaria(int[][])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

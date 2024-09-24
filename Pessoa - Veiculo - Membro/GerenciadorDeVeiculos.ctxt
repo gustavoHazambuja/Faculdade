@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GerenciadorDeVeiculos
+comment1.params=
+comment1.target=GerenciadorDeVeiculos()
+comment2.params=car
+comment2.target=void\ cadastrarCarro(Carro)
+comment3.params=mot
+comment3.target=void\ cadastrarMoto(Moto)
+comment4.params=cam
+comment4.target=void\ cadastrarCaminhao(Caminhao)
+comment5.params=stringDeBusca
+comment5.target=void\ buscarInformacao(java.lang.String)
+comment6.params=
+comment6.target=void\ mostrarVeiculos()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

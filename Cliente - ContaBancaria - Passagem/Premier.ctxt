@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Premier
+comment1.params=cpf\ nome\ assento\ custo
+comment1.target=Premier(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=qtd\ pesos
+comment2.target=double\ custoBagagem(int,\ int[])
+comment3.params=a
+comment3.target=double\ defineAssento(java.lang.String)
+comment4.params=
+comment4.target=double\ getMilhas()
+comment5.params=
+comment5.target=double\ novoCustoPassagem()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Figura
+comment1.params=posX\ posY
+comment1.target=Figura(double,\ double)
+comment2.params=
+comment2.target=double\ getPosX()
+comment3.params=
+comment3.target=double\ getPos()
+comment4.params=
+comment4.target=boolean\ isVisivel()
+comment5.params=visivel
+comment5.target=void\ setVisivel(boolean)
+comment6.params=
+comment6.target=double\ getArea()
+comment7.params=
+comment7.target=double\ getPerimetro()
+comment8.params=
+comment8.target=java.lang.String\ getCor()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

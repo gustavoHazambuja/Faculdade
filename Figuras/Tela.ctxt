@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tela
+comment1.params=
+comment1.target=Tela()
+comment2.params=fig
+comment2.target=void\ adicionarFigura(Figura)
+comment3.params=
+comment3.target=void\ desenhar()
+numComments=4

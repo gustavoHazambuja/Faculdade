@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=placa
+comment1.target=Veiculo(Placa)
+comment2.params=pais
+comment2.target=void\ setPais(java.lang.String)
+comment3.params=
+comment3.target=Placa\ getPlaca()
+comment4.params=
+comment4.target=double\ getCombustivelNoTanque()
+comment5.params=litros
+comment5.target=double\ abastece(double)
+comment6.params=distancia
+comment6.target=double\ dirige(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

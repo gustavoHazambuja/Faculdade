@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GerenciadorDeMembros
+comment1.params=
+comment1.target=GerenciadorDeMembros()
+comment2.params=m
+comment2.target=void\ adicionarMembro(Membro)
+comment3.params=
+comment3.target=void\ mostrarMembros()
+numComments=4

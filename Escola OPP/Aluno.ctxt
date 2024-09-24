@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=
+comment1.target=void\ realizarAvalicao()
+comment2.params=
+comment2.target=java.util.Date\ getDataNascimento()
+comment3.params=dataNascimento
+comment3.target=void\ setDataNascimento(java.util.Date)
+comment4.params=
+comment4.target=Turma\ getTurma()
+comment5.params=turma
+comment5.target=void\ setTurma(Turma)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aplicacao
+comment1.params=tamanho
+comment1.target=Aplicacao(int)
+comment2.params=nome\ idade
+comment2.target=void\ adicionarPessoa(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ listarPessoas()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

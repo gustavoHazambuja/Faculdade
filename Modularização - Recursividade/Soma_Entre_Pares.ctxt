@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Soma_Entre_Pares
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=valA\ valB
+comment2.target=int\ Soma_Entre_Pares(int,\ int)
+numComments=3

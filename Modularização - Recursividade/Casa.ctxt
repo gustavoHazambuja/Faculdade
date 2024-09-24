@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Casa
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=larguCasa\ CompriCasa
+comment2.target=double\ AreaCasa(double,\ double)
+comment3.params=larguTerreno\ CompriTerreno
+comment3.target=double\ AreaTerreno(double,\ double)
+comment4.params=AreaCasa\ AreaTerreno
+comment4.target=double\ AreaLivre(double,\ double)
+numComments=5

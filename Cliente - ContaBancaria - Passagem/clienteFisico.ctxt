@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=clienteFisico
+comment1.params=nome\ idade\ sal
+comment1.target=clienteFisico(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=int\ getIdade()
+comment3.params=
+comment3.target=double\ getsalario()
+comment4.params=umaIdade
+comment4.target=void\ setIdade(int)
+comment5.params=
+comment5.target=double\ getMensalidade()
+comment6.params=novoSalario
+comment6.target=void\ setSalario(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Primos_Entre
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=valA\ valB
+comment2.target=int\ Primos_Entre(int,\ int)
+numComments=3

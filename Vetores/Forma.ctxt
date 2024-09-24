@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Forma
+comment1.params=nome\ cor\ lado\ area
+comment1.target=Forma(java.lang.String,\ java.lang.String,\ double,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCor()
+comment5.params=cor
+comment5.target=void\ setCor(java.lang.String)
+comment6.params=
+comment6.target=double\ getLado()
+comment7.params=lado
+comment7.target=void\ setLado(double)
+comment8.params=
+comment8.target=double\ getArea()
+comment9.params=area
+comment9.target=void\ setArea(double)
+numComments=11

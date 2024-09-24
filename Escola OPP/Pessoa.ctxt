@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=int\ getMatricula()
+comment4.params=matricula
+comment4.target=void\ setMatricula(int)
+numComments=5

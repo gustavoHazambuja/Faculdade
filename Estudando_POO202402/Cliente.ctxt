@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=valorCompra
+comment1.target=Cliente(double)
+comment2.params=
+comment2.target=double\ getValorCompra()
+numComments=3

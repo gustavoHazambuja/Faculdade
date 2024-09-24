@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CirculoColorido
+comment1.params=raio\ cor
+comment1.target=CirculoColorido(double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

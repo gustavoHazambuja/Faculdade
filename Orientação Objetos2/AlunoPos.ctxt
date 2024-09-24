@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlunoPos
+comment1.params=alguem1\ orientador1\ linha1
+comment1.target=AlunoPos(Aluno,\ java.lang.String,\ java.lang.String)
+comment2.params=orientador1
+comment2.target=void\ setOrientador(java.lang.String)
+comment3.params=linha1
+comment3.target=void\ setLinha(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getOrientador()
+comment5.params=
+comment5.target=java.lang.String\ getLinha()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
