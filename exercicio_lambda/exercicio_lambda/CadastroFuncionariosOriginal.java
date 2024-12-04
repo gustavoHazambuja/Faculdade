@@ -45,7 +45,7 @@ public class CadastroFuncionariosOriginal {
 		return lstf.stream()
 			.filter(f -> f.getNroDependentes() > 0)
 			.mapToLong(Funcionario::getNroDependentes)
-			.sum();
+			.count();
 	}
 
 	// 2c
